@@ -1,8 +1,20 @@
 {
   "name": "ex-react-usereducer-spesa",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "homepage": "https://github.com/AlbertoCadorin/ex-react-usereducer-spesa#readme",
+  "bugs": {
+    "url": "https://github.com/AlbertoCadorin/ex-react-usereducer-spesa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoCadorin/ex-react-usereducer-spesa.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
